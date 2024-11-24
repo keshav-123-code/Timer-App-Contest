@@ -74,10 +74,10 @@ body {
     /* border: 1px solid black; */
 }
 
-/* .timers-section button{
-background-color: yellow;
-} */
-
+.timer.end button{
+background-color: #3b3b49;
+color: white;
+}
 
 .stopbtn{
     background-color: yellow;
